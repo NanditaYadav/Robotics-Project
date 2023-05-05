@@ -1,7 +1,5 @@
 import math
-
 from sys import maxsize
-
 import matplotlib.pyplot as plt
 
 show_animation = True
