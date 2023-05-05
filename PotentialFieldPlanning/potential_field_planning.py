@@ -1,14 +1,3 @@
-"""
-
-Potential Field based path planner
-
-author: Atsushi Sakai (@Atsushi_twi)
-
-Ref:
-https://www.cs.cmu.edu/~motionplanning/lecture/Chap4-Potential-Field_howie.pdf
-
-"""
-
 from collections import deque
 import numpy as np
 import matplotlib.pyplot as plt
